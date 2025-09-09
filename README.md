@@ -35,7 +35,7 @@ Machine learning models such as Logistic Regression and Random Forest were train
 
 - How to Run
   1- Clone the repository:
-     git clone https://github.com/your-nidhideval/telco-churn-prediction.gitcd telco-churn-prediction
+     git clone https://github.com/nidhideval/telco-churn-prediction.gitcd telco-churn-prediction
     - kaggle link:https://www.kaggle.com/code/nidhideval/telco-churn-prediction
   2- Open the notebook in Jupyter or Google Colab.
   3- Run all cells to reproduce results.
